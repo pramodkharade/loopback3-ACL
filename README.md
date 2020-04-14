@@ -19,6 +19,10 @@ lb model
 
 with base class User.
 
+# Team model
+lb model
+with PersistedModel base class
+
 
 
 
