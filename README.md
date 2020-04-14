@@ -13,6 +13,12 @@ npm install loopback-connector-mongodb --save
 # DataSource command
 lb datasource
 
+# User Model
+
+lb model
+
+with base class User.
+
 
 
 
