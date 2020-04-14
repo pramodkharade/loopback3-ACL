@@ -27,6 +27,11 @@ with PersistedModel base class
 lb model
 with PersistedModel base class
 
+# Create Relation with Other Model
+
+lb relation
+
+
 
 
 
